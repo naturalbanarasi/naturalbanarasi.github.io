@@ -1,1 +1,1 @@
-# naturalbanarasi.io
+# naturalbanarasi.github.io
